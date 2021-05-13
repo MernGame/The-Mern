@@ -11,6 +11,9 @@ et les bêtes errant autour de la planète.
 Voici vos objectifs principaux ne les oubliez pas!
 
 -Rassembler des ressources
+
 -Collecter des pièces de navire
+
 -Fendez hors de la faune étrangère
+
 -Construire des bobines de choc et des bombes à avancer
