@@ -17,3 +17,8 @@ Voici vos objectifs principaux ne les oubliez pas!
 -Fendez hors de la faune étrangère
 
 -Construire des bobines de choc et des bombes à avancer
+
+
+Telechargement du jeu:
+
+https://merngame.itch.io/merngame
